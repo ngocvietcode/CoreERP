@@ -1,0 +1,10 @@
+D:\Project\CoreERP\CoreERP\bin\Debug\netcoreapp2.0\CoreERP.deps.json
+D:\Project\CoreERP\CoreERP\bin\Debug\netcoreapp2.0\CoreERP.runtimeconfig.json
+D:\Project\CoreERP\CoreERP\bin\Debug\netcoreapp2.0\CoreERP.runtimeconfig.dev.json
+D:\Project\CoreERP\CoreERP\bin\Debug\netcoreapp2.0\CoreERP.dll
+D:\Project\CoreERP\CoreERP\bin\Debug\netcoreapp2.0\CoreERP.pdb
+D:\Project\CoreERP\CoreERP\obj\Debug\netcoreapp2.0\CoreERP.csproj.CoreCompileInputs.cache
+D:\Project\CoreERP\CoreERP\obj\Debug\netcoreapp2.0\CoreERP.AssemblyInfoInputs.cache
+D:\Project\CoreERP\CoreERP\obj\Debug\netcoreapp2.0\CoreERP.AssemblyInfo.cs
+D:\Project\CoreERP\CoreERP\obj\Debug\netcoreapp2.0\CoreERP.dll
+D:\Project\CoreERP\CoreERP\obj\Debug\netcoreapp2.0\CoreERP.pdb
